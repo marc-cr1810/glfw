@@ -38,6 +38,9 @@ src/wayland-relative-pointer-unstable-v1-client-protocol.h
 src/wayland-relative-pointer-unstable-v1-protocol.c
 
 # Compiled binaries
+bin/
+bin-int/
+
 src/libglfw.so
 src/libglfw.so.3
 src/libglfw.so.3.3
